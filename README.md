@@ -1,16 +1,38 @@
-# React + Vite
+# Handwritten Character Recognition ✍️
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## 📌 Project Overview
+A machine learning application designed to recognize handwritten characters from input images.
 
-Currently, two official plugins are available:
+## 🎯 Objective
+To explore image processing and machine learning techniques for handwritten character recognition.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Technologies Used
+- Python
+- React
+- Vite
+- Add the actual ML and image-processing libraries used
 
-## React Compiler
+## ✨ Features
+- Handwritten character input
+- Character recognition
+- Prediction display
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Only include features that are implemented and working.
 
-## Expanding the Oxlint configuration
+## 📂 Project Structure
+Add your actual project folder structure here.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## ⚙️ Installation and Setup
+Add the actual frontend and backend installation instructions here.
+
+## 🚀 How to Run
+Add the exact commands required to start your application.
+
+## 📸 Screenshots
+Add screenshots of your working application.
+
+## 👨‍💻 Author
+Swamy V C
+
+GitHub: https://github.com/SwamyVC
+LinkedIn: https://linkedin.com/in/swamy-v-c-7a54972b5
